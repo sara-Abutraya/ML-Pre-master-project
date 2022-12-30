@@ -1,0 +1,25 @@
+body{
+	height: 100%;
+     width: 100%;
+     background-image: url("../images/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+background-size:cover;
+  background-attachment: fixed;
+
+
+	}
+.bulr-bg1{
+	height: 85rem;
+	width: 100%;
+	background: rgba( 0, 0, 0, 0.50 );
+	backdrop-filter: blur( 2.0px );
+	-webkit-backdrop-filter: blur( 2.0px );
+ 
+	}
+	.divider{
+    height: 0.5rem;
+	width: 15rem;
+	margin-left:40%;
+	background-color: #cda45e
+	}
